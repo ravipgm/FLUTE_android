@@ -25,18 +25,18 @@
 
     FLUTE_android archive consist of:
 
-    - alclib:                   Source files for ALCLIB library.
-    - flute:                    Source files for FLUTE application.
-    - flutelib:                 Source files for FLUTELIB library.
-    - sdplib:                   Source files for SDPLIB library.
-    - cURL			cross compiled CURL library.
-    - openssl			cross compiled OPENSSL library.
-    - zlib			cross compiled ZLIB library.
-    - expat			cross compiled EXPAT library.
-    - Makefile:                 Makefile for Linux OS to cross-compile for android OS.
-    - README.TXT:               This readme file.
-    - LICENCE.TXT:              Archive's licence file.
-    - LICENCE-UPDATE.TXT        Additional licence file.
+    - alclib:			Source files for ALCLIB library.
+    - flute:			Source files for FLUTE application.
+    - flutelib:			Source files for FLUTELIB library.
+    - sdplib:			Source files for SDPLIB library.
+    - cURL:			cross compiled CURL library.
+    - openssl:			cross compiled OPENSSL library.
+    - zlib:			cross compiled ZLIB library.
+    - expat:			cross compiled EXPAT library.
+    - Makefile:			Makefile for Linux OS to cross-compile for android OS.
+    - README.TXT:		This readme file.
+    - LICENCE.TXT:		Archive's licence file.
+    - LICENCE-UPDATE.TXT:	Additional licence file.
 	
 ------------------------------------------------------------------------------------
 
