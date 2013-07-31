@@ -3,7 +3,8 @@
                                FLUTE-android archive
 
 ------------------------------------------------------------------------------------
-    FLUTE_android: Building FLUTE application to add support for all android devices.
+    FLUTE_android: Building FLUTE application to add support for all android devices
+    to enable flute packet reception and recovering the content in mobile itself.
     Copyright (c) 2013 Ravichandran, Nomor Research GmbH
     contact: chandran@nomor.de
 
