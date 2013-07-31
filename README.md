@@ -36,7 +36,7 @@
     - Makefile:			Makefile for Linux OS to cross-compile for android OS.
     - README.TXT:		This readme file.
     - LICENCE.TXT:		Archive's licence file.
-    - LICENCE-UPDATE.TXT:	Additional licence file.
+    - LICENCE-UPDATE.TXT:		Additional licence file.
 	
 ------------------------------------------------------------------------------------
 
