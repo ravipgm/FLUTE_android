@@ -26,7 +26,7 @@
 
     Supported Operation Systems are:
 
-    - android 2.3+
+    - android
     - Tested on android 4.0+	
 
 ------------------------------------------------------------------------------------
